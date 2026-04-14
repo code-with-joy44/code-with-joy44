@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Swagata Sen Joy
 
-<!--
-**code-with-joy44/code-with-joy44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Computer Science & Technology (CST)   
+🏫 Dhaka Polytechnic Institute  
+💻 Passionate about Software Development, AI tools & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a dedicated and curious tech enthusiast currently in my 7th semester of CST.  
+I enjoy building real-world projects, exploring new technologies, and continuously improving my skills.
+
+- 🌱 <b>Learning:</b> Advanced Python, AI tools integration, Web Development
+- 💡 <b>Interested in:</b> AI-powered systems, automation, and software innovation
+- 🎯 <b>Goal:</b> Become a skilled Software Engineer and build impactful tech solutions
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+- Python (Primary)
+- Java
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- Bootstrap   
+- Java Script
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- PyCharm
+- Apache NetBeans
+
+---
+
+## 📂 Projects
+
+### 🔢 Scientific Calculator (Java Swing)
+- GUI-based calculator with advanced features:
+  - Trigonometric functions
+  - Logarithm
+  - Square root
+  - Factorial
+- Focused on clean UI and functional accuracy
+
+
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=code-with-joy44&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/code-with-joy44
+- 📧 Email: joyswagatasen@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real projects and exploring how AI can simplify complex problems 🚀
