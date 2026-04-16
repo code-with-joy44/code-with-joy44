@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swagata Sen Joy
+ # 👋 Hi, I'm Swagata Sen Joy
 
 🎓 Diploma in Computer Science & Technology (CST)   
 🏫 Dhaka Polytechnic Institute  
@@ -28,7 +28,7 @@ I enjoy building real-world projects, exploring new technologies, and continuous
 - CSS
 - Bootstrap   
 - Java Script
-
+- Node
 ### 🧰 Tools & Platforms
 - Git & GitHub
 - VS Code
