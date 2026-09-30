@@ -47,6 +47,13 @@ I enjoy building real-world projects, exploring new technologies, and continuous
   - Factorial
 - Focused on clean UI and functional accuracy
 
+### 🔢 Personal Portfolio
+######Key features:
+  -Fully responsive
+  -Dark/Light theme
+  -Skill-set and Project showcase
+  -Functional contact from using EmailJS
+ 
 
 
 ---
